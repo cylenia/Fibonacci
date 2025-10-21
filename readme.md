@@ -1,2 +1,2 @@
 # fibonacci
-Calculate the nth number in the Fibonacci sequence
+calculate the nth number in the fibonacci sequence
